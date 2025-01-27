@@ -4,5 +4,6 @@ let wordFromText = prompt("Введите слово из текста").trim();
 
 let indexOfWord = userText.indexOf(wordFromText);
 
-String = userText.indexOf(wordFromText);
+string = userText.indexOf(wordFromText);
+
 alert(string);
